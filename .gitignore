@@ -1,0 +1,11 @@
+# Runtime and editor files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Do not commit local browser data if created in this folder
+Cookies
+History
+Login Data
+Web Data
